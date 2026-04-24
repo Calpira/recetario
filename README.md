@@ -1,8 +1,5 @@
-<img alt="Static Badge" src="https://img.shields.io/badge/estado-cargando_recetas-red?style=flat&logoSize=auto">
-
 
 <img src="assets/logo.png" alt="logo" width="200">
-
 
 
 Libro de recetas personal, para un rapido acceso multiplataforma. Las recetas se guardan en un archivo JSON editable.
@@ -19,4 +16,7 @@ recetario/
 └── js/
     └── app.js
 ```
-pendiente: cambiar la forma en que se ven las porciones, siendo posible ver por unidad, porcion, otros o nada. editable segun la entrada, desde el json.
+<img alt="Static Badge" src="https://img.shields.io/badge/cargar_recetas-en_proceso-yellow">
+<img alt="Static Badge" src="https://img.shields.io/badge/cargar_imagenes-pendiente-red">
+<img alt="Static Badge" src="https://img.shields.io/badge/editar_porciones-pendiente-red">
+
