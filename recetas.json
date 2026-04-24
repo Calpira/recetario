@@ -138,6 +138,7 @@
 {"id": 7,
 "titulo": "Takoyaki en provoletera",
 "categoria": "Snacks y aperitivos",
+"descripcion": "-",
 "tiempo": "40 min",
 "tiempo_minutos": 40,
 "porciones": 16,
@@ -153,6 +154,8 @@
 "Seguí girando cada tanto hasta que queden redondas y doradas.",
 "Servilas calientes con las salsas y toppings sugeridos."
 ],
+"tips": ["Cuanto más aceitadita la provoletera, más fácil girarlas."],
 "etiquetas": ["japonés", "snack", "picada", "vegetariano"]
 }
 ]
+
