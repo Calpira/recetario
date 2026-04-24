@@ -19,3 +19,4 @@ recetario/
 └── js/
     └── app.js
 ```
+pendiente: cambiar la forma en que se ven las porciones, siendo posible ver por unidad, porcion, otros o nada. editable segun la entrada, desde el json.
