@@ -75,6 +75,7 @@
    "titulo": "Licor de menta",
   "categoria": "Tragos y bebidas",
   "tiempo": "8 dias",
+  "porciones": 0,
   "dificultad":"media",
   "ingredientes_principales": ["menta"],
   "imagen": "https://scontent.feze14-1.fna.fbcdn.net/v/t39.30808-6/473800509_1121791636247732_3201666935756148408_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=B7P9lQA-D8kQ7kNvwGaF4LG&_nc_oc=Adq2lNIUEqD58akgu5DukJh-GDP1-q-2HscBwzY4zFOdsLZbmJ1WxmurB_wPqJ4yEsc&_nc_zt=23&_nc_ht=scontent.feze14-1.fna&_nc_gid=ewOvvoZFcVfkjx6Y6zGajA&oh=00_Af0mGYTpZ1S1SoJlVv8cS4YhY0lbKKOTqvW5MT6LXpZZWQ&oe=69F17275",
@@ -91,5 +92,67 @@
 "Esperá al menos una semana antes de consumir para que los sabores se integren bien."
 ],
   "etiquetas": ["licor", "menta", "tragos", "estacionado"]
-  }
+  },
+
+  {"id": 5,
+    "titulo": "Malfattis de espinaca y ricota",
+    "categoria": "Pastas",
+    "dificultad":"fácil",
+    "tiempo": "-",
+    "porciones": 2,
+    "ingredientes_principales": ["espinaca", "ricota"],
+    "imagen": "https://i.blogs.es/d629cf/malfatti-con-salsa-de-tomate/1366_2000.jpg",
+    "descripcion": "-",
+    "ingredientes": ["300 g de espinaca" , "200 g de ricota" , "100 g de queso rallado" , "1 huevo" , "120 g de harina" , "Sal y condimentos a gusto (pimienta, nuez moscada, etc.)"],
+    "pasos": ["Preparar la mezcla:Cociná la espinaca, escurrila bien y picala. En un bol mezclá la espinaca cocida con la ricota, el huevo, los condimentos y el queso rallado. Agregá la harina de a poco, integrando bien hasta lograr una mezcla firme pero manejable.", "Formar los malfatti: Armá los malfatti con las manos, tipo bolitas. Si la mezcla está muy blanda, sumá apenas un poco más de harina.", "Cocinar:Poné agua con sal a calentar hasta que esté a punto de hervor (que no burbujee fuerte). Cociná los malfatti en tandas. Cuando suben a la superficie, dejalos 3 minutos más y retiralos con espumadera."],
+    "tips": ["Si querés, podés freezarlos antes de cocer y usarlos más adelante." , "Cuanto menos harina uses, más suaves y esponjosos quedan."],
+    "etiquetas": ["pasta", "espinaca", "ricota", "fácil"]  
+  },
+
+  {"id": 6,
+"titulo": "Nuggets veganos de harina de garbanzo",
+"categoria": "Snacks y aperitivos",
+"tiempo": "30 min",
+"porciones" : 12,
+"dificultad": "fácil",
+"ingredientes_principales": ["harina de garbanzo"],
+"imagen": "",
+"descripcion": "-",
+"ingredientes": ["340 g de agua",
+"180g de harina de garbanzo",
+"Sal a gusto",
+"Ajo en polvo, perejil u otros condimentos (opcional)",
+"Pan rallado c/n (para empanar)"],
+"pasos": ["Herví el agua en una sartén o cacerola. Mientras mezcla la harina de garbanzo con los condimentos.",
+"Cuando rompa hervor, bajá el fuego y agregá la harina de garbanzo",
+"Mezclá hasta que se forme una masa espesa y más o menos uniforme. ",
+"Apagá el fuego y dejá enfriar completamente.",
+"Con las manos húmedas, agarrá porciones de masa y formá los nuggets del tamaño y forma que prefieras.",
+"Pasalos por pan rallado, cubriéndolos bien.",
+"Cocinalos fritos en aceite caliente hasta que estén doraditos. o al horno con un chorrito de aceite, unos 20 min a 200°C, dándolos vuelta a la mitad del tiempo."
+],
+"tips": ["podés freezarlos antes de cocinarlos."],
+"etiquetas": ["vegetariano", "snack", "picada", "fácil"]
+},
+
+{"id": 7,
+"titulo": "Takoyaki en provoletera",
+"categoria": "Snacks y aperitivos",
+"tiempo": "40 min",
+"tiempo_minutos": 40,
+"porciones": 16,
+"dificultad": "media",
+"ingredientes": ["1 taza de harina común" , "1 huevo" , "1 ½ taza de caldo (dashi o de verduras)" , "½ cdita de sal" ,
+"½ cdita de polvo de hornear (opcional)" , "1 cdita de salsa de soja" , "relleno 1:Pencas cortadas en cubitos chicosSecadas con papel de cocina(Opcional: un cubito de queso en cada hueco)" , 
+"relleno 2: ½ taza de soja texturizada hidratada en caldo o agua caliente (10 min)Salteada con un chorrito de aceite, salsa de soja, ajo y jengibre rallado(Opcional: mezclar con queso crema o ricotta para que compacte mejor)" , 
+"Para servir: Salsa takoyaki (o barbacoa suave)Mayonesa Verdeo picado o semillas de sésamo Opcional: alga nori en polvo o en tiritas"],
+"pasos":["Calentá la provoletera en la hornalla a fuego medio y aceitá bien cada hueco.",
+"Volcá la masa hasta cubrir (que rebalse un poco).",
+"Colocá el relleno elegido en cada hueco.",
+"Cuando los bordes empiecen a cocinarse, girá con un palillo 90°, dejá que caiga la masa cruda y después completá el giro.",
+"Seguí girando cada tanto hasta que queden redondas y doradas.",
+"Servilas calientes con las salsas y toppings sugeridos."
+],
+"etiquetas": ["japonés", "snack", "picada", "vegetariano"]
+}
 ]
