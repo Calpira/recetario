@@ -96,6 +96,15 @@ body {
   transition: color .15s;
 }
 .search-clear:hover { color: #EDE7DC; }
+
+
+.logo-img {
+  width: 40px;
+  height: 40px;
+  border-radius: 9px;
+  object-fit: cover;
+  flex-shrink: 0;
+}
  
 /* Nav */
 .nav-label {
