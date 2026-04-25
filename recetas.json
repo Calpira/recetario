@@ -48,7 +48,7 @@
 
   {"id": 3,
     "titulo": "Ciabatta",
-    "categoria": "Panadería",
+    "categoria": "Panes y masas",
     "tiempo": "3 horas",
     "porciones": 8,
     "porcion_unidad": "unidades",
@@ -213,7 +213,7 @@
 
 {"id" : 10,
 "titulo" : "“Atún” vegano de soja texturizada y alga nori",
-"categoria" : "ingredientes",
+"categoria" : "Ingredientes",
 "tiempo" : "20min",
 "porciones" : null,
 "porcion_unidad" : "-",
