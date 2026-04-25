@@ -20,3 +20,41 @@ recetario/
 <img alt="Static Badge" src="https://img.shields.io/badge/cargar_imagenes-pendiente-red">
 <img alt="Static Badge" src="https://img.shields.io/badge/editar_porciones-pendiente-red">
 
+
+
+###categorias: 
+  'Panes y masas':      '🍞',
+  'Postres':            '🍮',
+  'Cafetería':          '☕',
+  'Pastelería':         '🥐',
+  'Tragos y bebidas':   '🍹',
+  'Sopas y caldos':     '🍲',
+  'Pastas':             '🍝',
+  'Salsas y aderezos':  '🫙',
+  'Snacks y aperitivos':'🫒',
+  'Platos principales': '🥘',
+  'Tartas y quiches':   '🥧',
+  'Entradas':           '🥗',
+  'Ensaladas':          '🥙',
+  'Desayunos':          '🍳',
+  'Guarniciones':       '🥔',
+
+
+
+### Informacion para cada receta en el json
+```
+{"id" :
+"titulo"
+"categoria"
+"tiempo"
+"tiempo_minutos"
+"porciones"
+"dificultad"
+"descripcion"
+"ingredientes"
+"pasos"
+"tips"
+"etiquetas"
+"imagen": "https://kirolab3d.tienda-online.com/server/Portal_0009770/img/products/no_image_xxl.jpg"
+}
+```
