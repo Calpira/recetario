@@ -22,7 +22,7 @@ recetario/
 
 
 
-###categorias: 
+### categorias: 
   'Panes y masas':      '🍞',
   'Postres':            '🍮',
   'Cafetería':          '☕',
