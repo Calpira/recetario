@@ -103,7 +103,7 @@
     "ingredientes": ["300 g de espinaca" , "200 g de ricota" , "100 g de queso rallado" , "1 huevo" , "120 g de harina" , "Sal y condimentos a gusto (pimienta, nuez moscada, etc.)"],
     "pasos": ["Preparar la mezcla:Cociná la espinaca, escurrila bien y picala. En un bol mezclá la espinaca cocida con la ricota, el huevo, los condimentos y el queso rallado. Agregá la harina de a poco, integrando bien hasta lograr una mezcla firme pero manejable.", "Formar los malfatti: Armá los malfatti con las manos, tipo bolitas. Si la mezcla está muy blanda, sumá apenas un poco más de harina.", "Cocinar:Poné agua con sal a calentar hasta que esté a punto de hervor (que no burbujee fuerte). Cociná los malfatti en tandas. Cuando suben a la superficie, dejalos 3 minutos más y retiralos con espumadera."],
     "tips": ["Si querés, podés freezarlos antes de cocer y usarlos más adelante." , "Cuanto menos harina uses, más suaves y esponjosos quedan."],
-    "etiquetas": ["pasta", "fácil"]  
+    "etiquetas": ["pasta"]  
   },
 
   {"id": 6,
@@ -129,7 +129,7 @@
 "Cocinalos fritos en aceite caliente hasta que estén doraditos. o al horno con un chorrito de aceite, unos 20 min a 200°C, dándolos vuelta a la mitad del tiempo."
 ],
 "tips": ["podés freezarlos antes de cocinarlos."],
-"etiquetas": ["snack", "picada", "fácil", "reemplazo"]
+"etiquetas": ["snack", "picada", "reemplazo"]
 },
 
 {"id": 7,
@@ -233,7 +233,7 @@
 ],
 "tips" :["Cuanto más alga pongas, más sabor a mar (ojo que puede amargar).", "Si lo vas a usar en pasta caliente, agregalo al final para no perder la textura.",
 "Se puede reemplazar el aceite de lino por lino rubio molido." , "Se puede congelar."],
-"etiquetas" :["economico", "reemplazo", "facil"],
+"etiquetas" :["economico", "reemplazo"],
 "imagen": "https://kirolab3d.tienda-online.com/server/Portal_0009770/img/products/no_image_xxl.jpg"
 }
 
