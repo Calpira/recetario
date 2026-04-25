@@ -38,6 +38,7 @@ recetario/
 -  'Ensaladas':          '🥗',
 -  'Desayunos':          '🍳',
 -  'Guarniciones':       '🍚',
+-  'Ingredientes':       '🧂',
 
 ---
 
