@@ -72,7 +72,7 @@
   },
 
   {"id":4,
-   "titulo": "Licor de menta",
+  "titulo": "Licor de menta",
   "categoria": "Tragos y bebidas",
   "tiempo": "8 dias",
   "porciones": 0,
@@ -116,7 +116,7 @@
 "porciones" : 12,
 "dificultad": "fácil",
 "ingredientes_principales": ["harina de garbanzo"],
-"imagen": "",
+"imagen": "https://kirolab3d.tienda-online.com/server/Portal_0009770/img/products/no_image_xxl.jpg",
 "descripcion": "-",
 "ingredientes": ["340 g de agua",
 "180g de harina de garbanzo",
@@ -132,7 +132,7 @@
 "Cocinalos fritos en aceite caliente hasta que estén doraditos. o al horno con un chorrito de aceite, unos 20 min a 200°C, dándolos vuelta a la mitad del tiempo."
 ],
 "tips": ["podés freezarlos antes de cocinarlos."],
-"etiquetas": ["vegetariano", "snack", "picada", "fácil"]
+"etiquetas": ["snack", "picada", "fácil", "reemplazo"]
 },
 
 {"id": 7,
@@ -155,7 +155,91 @@
 "Servilas calientes con las salsas y toppings sugeridos."
 ],
 "tips": ["Cuanto más aceitadita la provoletera, más fácil girarlas."],
-"etiquetas": ["japonés", "snack", "picada", "vegetariano"]
+"etiquetas": ["japonés", "snack", "picada", "reemplazo"],
+"imagen": "https://kirolab3d.tienda-online.com/server/Portal_0009770/img/products/no_image_xxl.jpg"
+},
+{
+  "id": 8,
+  "titulo": "Milanesas de soja",
+  "categoria" :"Platos principales",
+  "tiempo": "40 min",
+  "tiempo_minutos": 40,
+  "porciones": 20,
+  "dificultad":"fácil",
+  "descripcion": "-",
+  "ingredientes": ["1 kg de harina de soja" ,
+"500g de harina común (o reemplazo sin TACC: almidón de maíz + harina de sarraceno u otra)" ,
+"2 cditas de sal (aprox., ajustar al gusto) ",
+"1 buen chorro de salsa de soja ",
+"1 cda de pimentón ahumado" ,
+"Semillas de lino (enteras para decorar o molidas para mejor absorción) ",
+"Saborizante a carne en polvo (opcional)" ,
+"Agua (lo necesario, arrancar con 1 vaso e ir agregando)" ,
+"Pan rallado (común o apto sin gluten)" ],
+"pasos": ["En un bol grande, mezclá la harina de soja con la harina común." ,
+"Agregá sal, salsa de soja, pimentón, semillas y el condimento opcional." ,
+"Incorporá agua de a poco, amasando hasta obtener una masa firme pero maleable. " ,
+"Dejá reposar 10–15 min para que absorba bien."  ,
+"Cortá porciones de masa, aplastalas y dales forma de milanesa. " ,
+"Hervilas en agua por 3 minutos. Sacalas y dejalas enfriar. " ,
+"Pasá cada milanesa por pan rallado, presionando suavemente para que se adhiera. " ,
+"Al horno, fritas o en airfryer (15 min, dándolas vuelta a mitad de cocción, con un poquito de aceite). " ],
+"tips": ["Podés saborizar con ajo, perejil, curry, comino o lo que tengas a mano.", "Podés guardarlas en la heladera para consumo inmediato o apilarlas y congelarlas (separadas con film o bolsitas)."],
+"etiquetas":["economico", "freezer", "reemplazo"],
+"imagen": "https://kirolab3d.tienda-online.com/server/Portal_0009770/img/products/no_image_xxl.jpg"
+},
+
+{"id": 9,
+"titulo": "Pencas al escabeche",
+"categoria":"Snacks y aperitivos",
+"tiempo": "-",
+"tiempo_minutos" : 0,
+"porciones": 0,
+"dificultad" : "fácil",
+"descripcion": "para aprovechar las pencas cuando compras acelga",
+"ingredientes": ["Pencas de acelga cortadas en trozos de ~2 cm",
+"1 taza de vinagre",
+"1 taza de agua" ,
+"1 cdita de sal" ,
+"2 cditas de azúcar" ,
+"1 hoja de laurel", "ALIÑO: Aceite de oliva (cantidad generosa), 1–2 dientes de ajo en láminas, Cascaritas de limón, Pimienta negra molida, tomillo,  1 pizca de ají picante, 1 cda de pimentón "],
+"pasos": ["Hervir las pencas: Ponelas en una ollita con el vinagre, agua, sal, azúcar y laurel. Cociná hasta que estén tiernas pero firmes. "  ,
+"Aliño: En un bowl, mezclá aceite de oliva con ajo, cascaritas de limón, pimienta, tomillo, ají picante y pimentón."   ,
+"Integrar: Escurrí bien las pencas hervidas. Mezclalas con el aliño y revolvé hasta que estén bien bañadas. "  ,
+"Guardar: Pasá todo a frascos de vidrio limpios y cerralos bien. Guardá en la heladera."
+],
+"tips":["Duran varios días en heladera y cada día toman más sabor." , 
+"Van genial con pan casero, en picada o hasta arriba de una pizza blanca."
+],
+"etiquetas":["economico", "reciclado", "escabeche" ,  "picada", "estacionado"],
+"imagen": "https://kirolab3d.tienda-online.com/server/Portal_0009770/img/products/no_image_xxl.jpg" },
+
+{"id" : 10,
+"titulo" : "“Atún” vegano de soja texturizada y alga nori",
+"categoria" : "",
+"tiempo" : "",
+"tiempo_minutos" : 0,
+"porciones" : "",
+"dificultad" :"fácil",
+"descripcion": "Económico y práctico: dura en la heladera 4/5 dias.",
+"ingredientes" :["50 g de soja texturizada",
+"1  hoja de alga nori",
+"salsa de soja",
+"1 cda de aceite de lino (opcional)",
+"aceite de oliva", 
+"Agua"
+],
+"pasos" :["Hervir la soja: En una ollita, poné la soja con agua suficiente para taparla, un chorro de salsa de soja y ½ hoja de alga nori. Hervir durante 10 min. Colá y escurrí bien con las manos.",
+"Tostar el alga: En una sartén sin aceite, tostá la hoja de alga nori restante hasta que quede crujiente.",
+"Mezclar: En la procesadora, uní la soja hervida, el alga tostada desmenuzada, el aceite de oliva y el de lino.Procesá  a golpecitos, para que queden trozos irregulares (tipo desmenuzado, no pasta)."  ,
+"Reposo: Pasá a frascos herméticos y dejá reposar, guardar en heladera."
+],
+"tips" :["Cuanto más alga pongas, más sabor a mar (ojo que puede amargar).", "Si lo vas a usar en pasta caliente, agregalo al final para no perder la textura.",
+"Se puede reemplazar el aceite de lino por lino rubio molido." , "Se puede congelar."],
+"etiquetas" :["economico", "reemplazo", "facil"],
+"imagen": "https://kirolab3d.tienda-online.com/server/Portal_0009770/img/products/no_image_xxl.jpg"
 }
+
+
 ]
 
