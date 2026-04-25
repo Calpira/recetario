@@ -165,6 +165,7 @@ function abrirModal(id) {
         ${r.dificultad ? `<span>⚡ ${r.dificultad}</span>` : ''}
       </div>
       <p class="modal-desc">${r.descripcion}</p>
+      ${tagsEl} 
       <p class="modal-section">Ingredientes</p>
       <ul class="ing-list">${r.ingredientes.map(i => `<li>${i}</li>`).join('')}</ul>
       <p class="modal-section">Preparación</p>
@@ -172,7 +173,6 @@ function abrirModal(id) {
         <li><span class="step-num">${i + 1}</span><span>${p}</span></li>`).join('')}
       </ol>
       ${tipsEl}
-      ${tagsEl}
     </div>`;
 
   document.getElementById('modal-overlay').classList.add('open');
