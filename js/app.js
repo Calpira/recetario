@@ -13,7 +13,7 @@ const CAT_ICONS = {
   'Entradas':           '🧆',
   'Ensaladas':          '🥗',
   'Desayunos':          '🍳',
-  'Guarniciones':       '🥔',
+  'Guarniciones':       '🍚',
 };
 
 function catIcon(cat) { return CAT_ICONS[cat] || '🍴'; }
@@ -129,7 +129,7 @@ function render() {
         </div>
         <div class="card-footer">
           <span class="card-meta">🕐 ${r.tiempo}</span>
-          <span class="card-meta">🍽 ${r.porciones} porciones</span>
+          <span class="card-meta">🍽 ${r.porciones} ${r.porcion_unidad || 'porciones'}</span>
         </div>
       </article>`;
   }).join('');
@@ -142,10 +142,6 @@ function abrirModal(id) {
   const imgEl = r.imagen
     ? `<img class="modal-img" src="${r.imagen}" alt="${r.titulo}">`
     : `<div class="modal-img-placeholder">${catIcon(r.categoria)}</div>`;
-
-  const ings = Array.isArray(r.ingredientes_principales)
-    ? r.ingredientes_principales.join(', ')
-    : r.ingredientes_principales || '';
 
   const tagsEl = r.etiquetas?.length
     ? `<div class="card-badges" style="margin-top:.5rem">${r.etiquetas.map(t => `<span class="badge badge-tag">${t}</span>`).join('')}</div>`
@@ -165,9 +161,8 @@ function abrirModal(id) {
       <h2 class="modal-title">${r.titulo}</h2>
       <div class="modal-meta">
         <span>🕐 ${r.tiempo}</span>
-        <span>🍽 ${r.porciones} porciones</span>
+        <span>🍽 ${r.porciones} ${r.porcion_unidad || 'porciones'}</span>
         ${r.dificultad ? `<span>⚡ ${r.dificultad}</span>` : ''}
-        ${ings ? `<span>🥄 ${ings}</span>` : ''}
       </div>
       <p class="modal-desc">${r.descripcion}</p>
       <p class="modal-section">Ingredientes</p>
