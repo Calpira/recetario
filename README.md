@@ -14,7 +14,10 @@ recetario/
 ├── css/
 │   └── style.css
 └── js/
-    └── app.js
+│   └── app.js
+└── assets/
+    └── logo.png
+
 ```
 <img alt="Static Badge" src="https://img.shields.io/badge/cargar_recetas-en_proceso-yellow">
 <img alt="Static Badge" src="https://img.shields.io/badge/cargar_imagenes-pendiente-red">
