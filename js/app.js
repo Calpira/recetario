@@ -14,6 +14,7 @@ const CAT_ICONS = {
   'Ensaladas':          '🥗',
   'Desayunos':          '🍳',
   'Guarniciones':       '🍚',
+  'Ingredientes':       '🧂',
 };
 
 function catIcon(cat) { return CAT_ICONS[cat] || '🍴'; }
