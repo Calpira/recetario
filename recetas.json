@@ -254,6 +254,21 @@
 "tips" : [],
 "etiquetas" : ["frito"],
 "imagen" : "https://img-global.cpcdn.com/recipes/14bbfc400179c2dd/640x640sq80/photo.webp"
+},
+
+{"id" : 12,
+"titulo" : "Ñoquis de sémola",
+"categoria" : "Pastas",
+"tiempo" : "1h",
+"porciones" : 4,
+"porcion_unidad" : "porciones",
+"dificultad" : "facil",
+"descripcion" : "de @norali en cookpad",
+"ingredientes" : ["500 gr sémola","750 cc agua","2 cubitos caldo de verdura","sal","nuez moscada","5-6 cdas queso rallado"],
+"pasos" : ["Poner el agua en una olla justo con los cubitos de caldo y disolver", "Una vez que el agua llega a hervor agregar de golpe la sémola y con ayuda de una cuchara de madera cocinar 1 minuto más.", "incorporar opcionalmente nuez moscada y queso rallado", "Una vez fría la mezcla bajar a la mesada, amasar por 2 o 3 minutos y estirar tiras de 1 dedo de grosor" , "cortar y dar forma" , "Poner abundante agua con sal en una olla y una vez que llega a hervor poner los ñoquis. Cocinar por unos 5 o 6 minutos." , "servir con cualquier salsa"],
+"tips" : [],
+"etiquetas" : ["economico"],
+"imagen" : "https://img-global.cpcdn.com/recipes/c7bcaa5b60b4e310/640x640sq80/photo.webp"
 }
 
 
