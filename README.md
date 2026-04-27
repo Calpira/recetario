@@ -47,7 +47,7 @@ recetario/
 
 ### Informacion para cada receta en el json
 ```
-{"id" : "",
+{"id" : ,
 "titulo" : "",
 "categoria" : "",
 "tiempo" : "",
