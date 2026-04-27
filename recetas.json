@@ -65,7 +65,7 @@
 "Si querés, podés agregar hierbas a la masa para darle más aroma.",
 "Estas ciabatte quedan buenísimas para hacer sánguches o acompañar con ensalada."
 ],
-    "etiquetas": ["horno" , "italiana"]
+    "etiquetas": ["horno" , "italiano"]
   },
 
   {"id":4,
@@ -269,7 +269,57 @@
 "tips" : [],
 "etiquetas" : ["economico"],
 "imagen" : "https://img-global.cpcdn.com/recipes/c7bcaa5b60b4e310/640x640sq80/photo.webp"
+},
+
+{"id" : 13,
+"titulo" : "Salsa para gyozas",
+"categoria" : "Salsas y aderezos",
+"tiempo" : "5 min",
+"porciones" : 6,
+"porcion_unidad" : "comensales aprox",
+"dificultad" : "facil",
+"descripcion" : "preparación a base de salsa de soja, con un toque dulce y otros aromas. De cocinista.es",
+"ingredientes" : ["75 ml de salsa de soja",
+"75 ml de vinagre de arroz",
+"1 cucharadita aceite de sésamo",
+"1 cucharadita de azúcar",
+"Chile en polvo o en escamas (opc)",
+"1 diente de ajo muy picadito (opc)",
+"1/2 cebolleta muy picadita (opc)"],
+"pasos" : ["Mezclar todos los ingredientes en un bowl" , "garantizar que el azucar se disuelva completamente", "Servir la salsa en platillos pequeños para mojar en ellos las gyozas."],
+"tips" : ["se pueden agregar semillas de sesamo para textura, o para reemplazar a falta de aceite"],
+"etiquetas" : ["japonés"],
+"imagen" : "https://sutobu.com/wp-content/uploads/2015/08/JAP4185.jpg"
+},
+
+{"id" : 14,
+"titulo" : "Salsa mediterránea",
+"categoria" : "Salsas y aderezos",
+"tiempo" : "20min",
+"porciones" : null,
+"porcion_unidad" : "-",
+"dificultad" : "facil",
+"descripcion" : "de hola.com",
+"ingredientes" : ["2 cucharadas de aceite de oliva",
+"1 unidades de cebolla",
+"3 unidades de dientes de ajo",
+"100 mililitros de vino blanco",
+"2 tazas de tomate natural en conserva",
+"125 gramos de aceitunas negras y verdes (deshuesadas)",
+"2 cucharaditas de perejil fresco picado",
+"sal",
+"pimienta negra molida"],
+"pasos" : ["Pela los ajos y la cebolla pica en láminas.",
+"Calienta el aceite de oliva en una sartén grande, pon a fuego medio hasta que esté caliente, agrega la cebolla y cocina hasta que se ablande.",
+"Añade el ajo picado, sube la temperatura de la sartén y saltea hasta que el ajo se dore.",
+"Vierte el vino blanco y, cuando rompa a hervir, baja la temperatura del fuego y espera hasta que el alcohol se haya reducido ¾ partes.",
+"Añade a la mezcla el tomate triturado y las aceitunas cortadas en aros y cocina hasta que espese la salsa durante unos 5-6 minutos.",
+"Salpimenta y adereza con el perejil, remueve y ya la tendrías lista, por ejemplo, para servir con una pasta hervida."],
+"tips" : [],
+"etiquetas" : ["española", "aceitunas" , "vino"],
+"imagen" : "https://www.hola.com/horizon/landscape/ba8ad59357a6-salsa-mediterranea-t.jpg"
 }
+
 
 
 ]
