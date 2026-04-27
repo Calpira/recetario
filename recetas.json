@@ -235,6 +235,25 @@
 "Se puede reemplazar el aceite de lino por lino rubio molido." , "Se puede congelar."],
 "etiquetas" :["economico", "reemplazo"],
 "imagen": "https://kirolab3d.tienda-online.com/server/Portal_0009770/img/products/no_image_xxl.jpg"
+},
+
+{"id" : 11,
+"titulo" : "Torta fritas Veganas",
+"categoria" : "Panes y masas",
+"tiempo" : "15min",
+"porciones" : 10,
+"porcion_unidad" : "unidades",
+"dificultad" : "facil",
+"descripcion" : "Para la lluvia",
+"ingredientes" : ["300 gr harina común" , 
+"1 cucharada sal",
+"3 cucharadas aceite",
+"150 cc agua tibia",
+"Aceite para freír"],
+"pasos" : ["Mezclar la harina con la sal", "Hacer un volcán y poner el aceite y el agua, formar una masa" , "Hacer bolitas y estirar (no muy finas)" , "Freír aproximadamente un minuto de cada lado, o dar vuelta cuando estén doradas"],
+"tips" : [],
+"etiquetas" : ["frito"],
+"imagen" : "https://img-global.cpcdn.com/recipes/14bbfc400179c2dd/640x640sq80/photo.webp"
 }
 
 
