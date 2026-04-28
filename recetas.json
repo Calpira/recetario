@@ -343,7 +343,33 @@
 "No batir por más de la cuenta o perderá firmeza. "],
 "etiquetas" : ["covertura", "relleno", "repostería"],
 "imagen" : "https://cdn.blog.paulinacocina.net/wp-content/uploads/2022/10/receta-de-buttercream.jpg"
+},
+
+{"id" : 16,
+"titulo" : "Jäger Mojito",
+"categoria" : "Tragos y bebidas",
+"tiempo" : "-",
+"porciones" : 1,
+"porcion_unidad" : "-",
+"dificultad" : "facil",
+"descripcion" : "de Luis Arrollo en shakeadito.com / coctel muy aromático, lleno de elementos cítricos y herbales.",
+"ingredientes" : ["2 oz Jägermeister",
+"1½  Limón en gajos",
+"12 hojas de Hierbabuena ",
+"2 cucharadas Azúcar morena",
+"Soda",
+"Hielo"],
+"pasos" : ["En un vaso agrega limón, hierbabuena y azúcar",
+"Macera el contenido del vaso",
+"Agrega hielo y Jägermeister",
+"Mézclalo",
+"Añade soda",
+"Decora con una rodaja de limón y hojas de hierbabuena"],
+"tips" : [],
+"etiquetas" : [],
+"imagen" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGWG2wL1VZMJT9_3WAwf7t5pwJ7HMTa1z6gg&s"
 }
+
 
 ]
 
