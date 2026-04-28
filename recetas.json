@@ -318,9 +318,32 @@
 "tips" : [],
 "etiquetas" : ["española", "aceitunas" , "vino"],
 "imagen" : "https://www.hola.com/horizon/landscape/ba8ad59357a6-salsa-mediterranea-t.jpg"
+},
+
+{"id" : 15,
+"titulo" : "Buttercream",
+"categoria" : "Ingredientes",
+"tiempo" : "25min",
+"porciones" : null,
+"porcion_unidad" : "-",
+"dificultad" : "media",
+"descripcion" : "de paulinacocina / decoracion, relleno o cobertura a base de manteca y azúcar impalpable",
+"ingredientes" : ["250 gr. de manteca pomada (a temperatura ambiente).",
+"250- 300 gr de azúcar impalpable.",
+"2 cucharadas de leche.",
+"1 cucharada de esencia de vainilla.",
+"Una pizca de sal."],
+"pasos" : ["Poner la leche con la pizca de sal en un vasito y reservar.",
+"Batir la manteca con una batidora de varillas o con el accesorio de una amasadora a velocidad media alta hasta que esté cremosa.",
+"Cuando la manteca esté cremosa, bajar la velocidad (para que el azúcar impalpable no vuele para todos lados) y añadir el azúcar, seguir batiendo hasta que la mezcla quede de una textura como terrosa.",
+"Cuando la manteca y el azúcar impalpable empiecen a integrarse subir la velocidad y añadir la leche con la sal. Seguir batiendo 8-10 minutos: cuanto más se bata la crema de manteca, mejor va a quedar.",
+"En el caso de querer saborizarla, este es el momento. Listo! Ya se puede usar."],
+"tips" : ["en heladera hay que ponerla en un recipiente hermético y dura aproximadamente una semana.","se puede congelar por más o menos un mes (descongelar a temp ambiente)."," No sustituir el azúcar impalpable con azúcar común porque la mezcla perderá firmeza.",
+"No se debe batir a velocidad muy alta porque se puede llegar a cortar",
+"No batir por más de la cuenta o perderá firmeza. "],
+"etiquetas" : ["covertura", "relleno", "repostería"],
+"imagen" : "https://cdn.blog.paulinacocina.net/wp-content/uploads/2022/10/receta-de-buttercream.jpg"
 }
-
-
 
 ]
 
