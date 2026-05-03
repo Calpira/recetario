@@ -661,6 +661,45 @@
 "china"
 ],
 "imagen": "https://i.ytimg.com/vi/HEHCke3bR-E/maxresdefault.jpg"
+}, 
+
+{
+"id": 25,
+"titulo": "Tiramisú italiano",
+"categoria": "Postres",
+"tiempo": "24hs",
+"porciones": null,
+"porcion_unidad": "-",
+"dificultad": "Media",
+"descripcion": "Postre italiano clásico en capas de vainillas embebidas en café amargo y crema de mascarpone con huevo. de chefroberta en tiktok",
+"ingredientes": [
+"6 yemas de huevo",
+"5 claras de huevo",
+"5 cucharadas de azúcar",
+"Mascarpone 500gr",
+"un paquete grande de vainillas ",
+"Café amargo cantidad necesaria"
+],
+"pasos": [
+"Montar las 5 claras de huevo a nieve.",
+"En otro bowl mezclar las 6 yemas con las 5 cucharadas de azúcar.",
+"Agregar el mascarpone a la mezcla de yemas y azúcar.",
+"Incorporar las claras montadas con movimientos lentos de abajo hacia arriba.",
+"Pasar rápidamente las vainillas savoiardi por café amargo.",
+"Colocar una capa de vainillas en una fuente.",
+"Agregar la mitad de la crema.",
+"Repetir con otra capa de vainillas embebidas y el resto de la crema.",
+"Llevar a la heladera por al menos 4 horas antes de cortar."
+],
+"tips": [
+"Las vainillas deben pasarse muy rápido por el café para que no se deshagan.",
+"decorar con cacao amargo",
+"refrigerar al menos 4hs antes de consumir, y preferentemente 24hs"
+],
+"etiquetas": [
+"italiano"
+],
+"imagen": "https://www.recetasderechupete.com/wp-content/uploads/2024/02/Mejor-tiramisu-casero-paso-29.png"
 }
 ]
 
