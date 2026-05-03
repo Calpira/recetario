@@ -570,6 +570,52 @@
 "tips" :[],
 "etiquetas" : ["paraguay" , "guiso"],
 "imagen" : "https://www.recetasparaguay.com/base/stock/Recipe/guiso-de-poroto-manteca/guiso-de-poroto-manteca_web.jpg.webp"
+},
+
+{
+"id": 23,
+"titulo": "Bloody Mary",
+"categoria": "Tragos y bebidas",
+"tiempo": "10 minutos",
+"porciones": 1,
+"porcion_unidad": "trago",
+"dificultad": "Fácil",
+"descripcion": "Cóctel clásico a base de vodka y jugo de tomate, con notas picantes, cítricas y especiadas. por Nicolas Saya en tiktok",
+"ingredientes": [
+"1/2 cucharada de salsa picante",
+"1 cucharada de salsa inglesa",
+"Pimienta en grano a gusto",
+"Sal de apio a gusto",
+"30 ml de jugo de limón 1oz ",
+"Mucho hielo",
+"60 ml de vodka 2oz ",
+"Jugo de tomate frío cantidad necesaria",
+"1 ramita de apio para decorar"
+],
+"pasos": [
+"En un vaso de trago largo agregar la salsa picante.",
+"Sumar la salsa inglesa.",
+"Moler pimienta en grano por encima.",
+"Agregar sal de apio o sal común.",
+"Incorporar el jugo de limón.",
+"Revolver con una cuchara para integrar los primeros ingredientes.",
+"Agregar abundante hielo.",
+"Sumar el vodka.",
+"Completar con jugo de tomate frío.",
+"Revolver nuevamente para enfriar e integrar bien.",
+"Decorar con una ramita de apio."
+],
+"tips": [
+"Los primeros cuatro ingredientes son a gusto y pueden ajustarse según qué tan intenso o picante se quiera.",
+"se puede decorar con pinchos de aceitunas y cebollitas"
+],
+"etiquetas": [
+"cocktail",
+"vodka",
+"tomate",
+"picante"
+],
+"imagen": "https://media-casalasco-prod.alkemy.digital/pomi/media/__sized__/media_center/blog/article/image/bloody-mary-crop-c0-5__0-5-800x850-70.jpg"
 }
 
 ]
