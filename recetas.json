@@ -440,6 +440,39 @@
 "vino blanco"
 ],
 "imagen": "https://cdn0.uncomo.com/es/posts/8/5/6/como_hacer_salsa_de_vino_blanco_20658_600.webp"
+},
+
+{
+"id": 19,
+"titulo": "Tortilla parrillera",
+"categoria": "Panes y masas",
+"tiempo": "40 minutos",
+"porciones": 6,
+"porcion_unidad": "unidades",
+"dificultad": "Fácil",
+"descripcion": "version vegetariana de las tortillas clasicas. Ideales para acompañar mate o una picada.",
+"ingredientes": [
+"500 g de harina común",
+"1 cucharadita de sal",
+"1 cucharadita de azúcar",
+"2 cucharadas de aceite o manteca",
+"250 ml de agua tibia"
+],
+"pasos": [
+"Mezclar la harina con la sal y el azúcar en un bowl.",
+"Agregar la materia grasa y el agua tibia de a poco, formando una masa.",
+"Amasar hasta lograr una textura lisa y dejar reposar 15 a 20 minutos.",
+"Dividir la masa en bollos y aplastarlos formando discos.",
+"Cocinar en la parrilla a fuego medio, dándolas vuelta hasta que estén doradas de ambos lados.",
+"Retirar y servir calientes."
+],
+"tips": ["se pueden hacer menos y rellenas"
+],
+"etiquetas": [
+"parrilla",
+"tradicional"
+],
+"imagen": "https://i.pinimg.com/736x/6b/79/02/6b7902836c91c3cb2a1057647f60f3ef.jpg"
 }
 
 
