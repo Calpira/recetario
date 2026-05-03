@@ -473,6 +473,41 @@
 "tradicional"
 ],
 "imagen": "https://i.pinimg.com/736x/6b/79/02/6b7902836c91c3cb2a1057647f60f3ef.jpg"
+},
+
+{
+"id": 20,
+"titulo": "Arepas",
+"categoria": "Panes y masas",
+"tiempo": "-",
+"porciones": null,
+"porcion_unidad": "-",
+"dificultad": "media",
+"descripcion": "Arepas tradicionales venezolanas, de paulinacocina.",
+"ingredientes": [
+"2 tazas de harina de maíz precocida",
+"3 tazas de agua tibia",
+"1 cucharadita de sal",
+"1 cucharada de aceite de oliva"
+],
+"pasos": [
+"En un recipiente colocar el agua junto con la sal y el aceite de oliva. Mezclar e ir agregando la harina de a poco mientras se continúa removiendo.",
+"Una vez incorporada toda la masa comenzar a mezclar con las manos mientras la harina va absorbiendo el líquido. Si es necesario agregar un poco más de harina y la textura final tiene que ser parecida a un puré de papa moldeable. Cuando se logre la consistencia deseada dejar en reposo por 10 minutos.",
+"Pasado el tiempo, con la ayuda de las manos agarrar bolas de la masa para comenzar a darles forma redondeada y luego plana. Repetir este proceso con toda la masa.",
+"Calentar una sartén con un poco de aceite en la base y cuando esté caliente colocar de a una o dos las arepas. Cocinar a fuego medio por 5-7 minutos.",
+"Pasado el tiempo darlas vuelta y cocinar por 10 minutos más. Luego repetir el proceso de cocción con toda la masa.",
+"Ya estarán listas para rellenar y comer."
+],
+"tips": [
+"No hacerlas muy finas para que no queden secas.",
+"Podés agregar queso rallado a la masa para darles más sabor.",
+"Se pueden freezar ya cocidas y recalentar después."
+],
+"etiquetas": [
+"venezuela",
+"sin gluten"
+],
+"imagen": "https://cdn.blog.paulinacocina.net/wp-content/uploads/2022/05/como-hacer-arepas-venezolanas.jpg"
 }
 
 
