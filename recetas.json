@@ -508,6 +508,44 @@
 "sin gluten"
 ],
 "imagen": "https://cdn.blog.paulinacocina.net/wp-content/uploads/2022/05/como-hacer-arepas-venezolanas.jpg"
+},
+{
+"id": 21,
+"titulo": "Caramel Macchiato",
+"categoria": "Cafetería",
+"tiempo": "15 minutos",
+"porciones": 1,
+"porcion_unidad": "vaso",
+"dificultad": "Fácil",
+"descripcion": "Bebida fría de café con leche, hielo y salsa de caramelo casera. Por macabrew_ en tiktok",
+"ingredientes": [
+"1 taza de azúcar",
+"30 g de manteca",
+"Un poquito de esencia de vainilla",
+"1/2 taza de crema de leche caliente",
+"1 espresso doble",
+"Hielo",
+"Leche cantidad necesaria"
+],
+"pasos": [
+"Derritir la taza de azúcar hasta que quede casi líquida y tome color ámbar.",
+"Agregar los 30 g de manteca y un poco de esencia de vainilla.",
+"Incorporar la media taza de crema de leche caliente y mezclar hasta formar una salsa de caramelo.",
+"Dejar enfriar un poco la salsa.",
+"Preparar un espresso doble.",
+"Decorar las paredes internas de un vaso con la salsa de caramelo.",
+"Agregar hielo dentro del vaso.",
+"Sumar leche.",
+"Verter por encima el espresso doble.",
+"Coronar con un poco más de salsa de caramelo."
+],
+"tips": [
+],
+"etiquetas": [
+"frío",
+"caramelo"
+],
+"imagen": "https://3f4c2184e060ce99111b-f8c0985c8cb63a71df5cb7fd729edcab.ssl.cf2.rackcdn.com/media/19447/icedcaramelmacchiato.jpg"
 }
 
 
