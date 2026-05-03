@@ -616,7 +616,51 @@
 "picante"
 ],
 "imagen": "https://media-casalasco-prod.alkemy.digital/pomi/media/__sized__/media_center/blog/article/image/bloody-mary-crop-c0-5__0-5-800x850-70.jpg"
-}
+},
 
+{
+"id": 24,
+"titulo": "Espárragos salteados",
+"categoria": "Guarniciones",
+"tiempo": "10 minutos",
+"porciones": null,
+"porcion_unidad": "-",
+"dificultad": "Fácil",
+"descripcion": "Espárragos salteados al wok con ajo y una salsa simple de soja, espesada con fécula de maíz. de Walter Lui en tiktok",
+"ingredientes": [
+"Espárragos 1 paquete aprox",
+"Salsa de soja 1cda",
+"Una cdita de sal",
+"Una cdita de azúcar",
+"Un poquito de pimienta",
+"Agua cantidad necesaria",
+"Una cda de fécula de maíz",
+"1 diente de ajo o un poquito de ajo picado",
+"Un poquito de aceite",
+"Un chorrito de aceite de sésamo"
+],
+"pasos": [
+"Preparar la salsa mezclando salsa de soja, sal, azúcar, pimienta, agua y un poco de fécula de maíz.",
+"Mezclar bien y reservar.",
+"Cortar la parte trasera dura de los espárragos en el punto donde se quiebran naturalmente.",
+"Cortar los espárragos al bies en 3 o 4 tramos según el largo.",
+"Calentar un wok con un poco de aceite.",
+"Agregar el ajo picado y luego los espárragos.",
+"Sumar un chorrito de agua y saltear durante 1 minuto.",
+"Agregar un poco más de pimienta.",
+"Incorporar la salsa preparada.",
+"Agregar un chorrito de aceite de sésamo.",
+"Cocinar apenas hasta que la salsa espese y servir."
+],
+"tips": [
+"No cocinar demasiado los espárragos para que mantengan textura crocante.",
+"se puede incorporar sesamo para decorar"
+],
+"etiquetas": [
+"salteado",
+"china"
+],
+"imagen": "https://i.ytimg.com/vi/HEHCke3bR-E/maxresdefault.jpg"
+}
 ]
 
