@@ -368,6 +368,41 @@
 "tips" : [],
 "etiquetas" : [],
 "imagen" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGWG2wL1VZMJT9_3WAwf7t5pwJ7HMTa1z6gg&s"
+},
+
+{
+"id": "17",
+"titulo": "Fettuccine Alfredo",
+"categoria": "Pastas",
+"tiempo": "25 minutos",
+"porciones": 4,
+"porcion_unidad": "porciones",
+"dificultad": "Fácil",
+"descripcion": "Pasta cremosa clásica hecha con manteca y queso, sin crema, con textura suave y sabor intenso. de Liliana Fuchs en directoalpaladar",
+"ingredientes": [
+"200 g de fettuccine",
+"50 g de manteca",
+"100 g de queso parmesano rallado",
+"Sal a gusto",
+"Pimienta negra a gusto",
+"Agua de cocción de la pasta (cantidad necesaria)"
+],
+"pasos": [
+"Hervir la pasta en abundante agua con sal hasta que esté al dente. Reservar una taza del agua de cocción.",
+"En una sartén amplia, derretir la manteca a fuego bajo.",
+"Agregar la pasta cocida a la sartén junto con un poco del agua de cocción.",
+"Incorporar el queso parmesano rallado y mezclar constantemente hasta lograr una salsa cremosa.",
+"Ajustar con más agua de cocción si hace falta para emulsionar.",
+"Condimentar con pimienta negra y servir inmediatamente."
+],
+"tips": [
+"Agregar el queso fuera del fuego fuerte para evitar que se corte.",
+"Servir enseguida para que no se seque la salsa."
+],
+"etiquetas": [
+"italiana"
+],
+"imagen": "https://i.blogs.es/326dd7/fettuccine-alfredo/1366_2000.jpg"
 }
 
 
