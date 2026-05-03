@@ -546,8 +546,31 @@
 "caramelo"
 ],
 "imagen": "https://3f4c2184e060ce99111b-f8c0985c8cb63a71df5cb7fd729edcab.ssl.cf2.rackcdn.com/media/19447/icedcaramelmacchiato.jpg"
-}
+},
 
+{"id": 22,
+"titulo": "Guiso de poroto manteca",
+"categoria" : "Sopas y caldos",
+"tiempo" : "1 hora",
+"porciones" : 4,
+"porcion_unidad" : "porciones",
+"dificultad" :"facil",
+"descripcion" : "-",
+"ingredientes": ["1 taza de Porotos manteca",
+"1 Cebolla","1 morron","1 cuchara de Aceite de oliva","1 Zanahoria",
+"½ Zapallo","1 pizca de Sal","1 pizca de Pimienta","Queso"],
+"pasos":[
+"Los porotos fueron remojados durante una noche.",
+"Se procedió a picar funamente la cebolla y el morron.",
+"En una olla con agua hirviendo y sal se cocieron la zanahoria y el zapallo.",
+"Mientras tanto, en una sartén con aceite se sofreían las verduras por 5 minutos.",
+"En otra olla con agua, los porotos se cocinaron durante 30 minutos.",
+"Luego, se unieron ambas preparaciones, se salpimentaron y se dejaron cocinar por otra media hora.",
+"Finalmente, se retiraron del fuego, se dejaron reposar unos minutos y se sirvieron."],
+"tips" :[],
+"etiquetas" : ["paraguay" , "guiso"],
+"imagen" : "https://www.recetasparaguay.com/base/stock/Recipe/guiso-de-poroto-manteca/guiso-de-poroto-manteca_web.jpg.webp"
+}
 
 ]
 
