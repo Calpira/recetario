@@ -403,6 +403,43 @@
 "italiana"
 ],
 "imagen": "https://i.blogs.es/326dd7/fettuccine-alfredo/1366_2000.jpg"
+},
+
+{
+"id": 18,
+"titulo": "Salsa de vino blanco",
+"categoria": "Salsas y aderezos",
+"tiempo": "-",
+"porciones": null,
+"porcion_unidad": "-",
+"dificultad": "Fácil",
+"descripcion": "Salsa suave y aromática a base de vino blanco, ideal para acompañar pastas, vegetales o preparaciones vegetarianas. Por Mercedes García Serrano",
+"ingredientes": [
+"1 vaso de vino blanco",
+"1 cebolla pequeña",
+"1 diente de ajo",
+"2 cucharadas de manteca",
+"1 cucharada de harina",
+"1 vaso de caldo de verduras",
+"Sal a gusto",
+"Pimienta a gusto"
+],
+"pasos": [
+"Picar finamente la cebolla y el ajo.",
+"Derretir la manteca en una sartén y rehogar la cebolla y el ajo hasta que estén transparentes.",
+"Agregar la harina y mezclar bien para formar un roux.",
+"Incorporar el vino blanco y cocinar unos minutos hasta que evapore el alcohol.",
+"Agregar el caldo de verduras de a poco, mezclando constantemente para evitar grumos.",
+"Cocinar a fuego medio hasta que la salsa espese.",
+"Salpimentar a gusto y servir."
+],
+"tips": [
+"Cocinar despacio"
+],
+"etiquetas": [
+"vino blanco"
+],
+"imagen": "https://cdn0.uncomo.com/es/posts/8/5/6/como_hacer_salsa_de_vino_blanco_20658_600.webp"
 }
 
 
