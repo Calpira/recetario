@@ -700,6 +700,38 @@
 "italiano"
 ],
 "imagen": "https://www.recetasderechupete.com/wp-content/uploads/2024/02/Mejor-tiramisu-casero-paso-29.png"
+},
+
+{
+"id": "26",
+"titulo": "Panqueques",
+"categoria": "Pastelería",
+"tiempo": "30 minutos",
+"porciones": 10,
+"porcion_unidad": "panqueques",
+"dificultad": "Fácil",
+"descripcion": "Panqueques clásicos preparados en panquequera eléctrica. De @yvette_anais en coockpad",
+"ingredientes": [
+"1 taza de harina",
+"1 taza de leche",
+"2 huevos",
+"1 pizca de sal"
+],
+"pasos": [
+"En una licuadora poner los huevos, la leche, la harina y la sal.",
+"Licuar hasta obtener una mezcla homogénea y sin grumos.",
+"Colocar la mezcla en la bandeja que viene con la panquequera.",
+"Apoyar la panquequera sobre la mezcla por máximo 3 segundos y dar vuelta.",
+"Esperar a que el panqueque se cocine y se despegue solo.",
+"Repetir hasta terminar la mezcla."
+],
+"tips": [
+"No dejar la panquequera demasiado tiempo sobre la mezcla para evitar que queden demasiado gruesos.",
+"apagar la maquina cuando se empiece a cocinar el panqueque para evitar marcas"
+],
+"etiquetas": [
+],
+"imagen": "https://oportunidades-vip.com.ar/wp-content/uploads/2025/07/Panquequera_Electrica__Batidor__Bowl_700w_220v_Or-201pc_D_734746-MLA79134734287_092024-O-768x768.jpg"
 }
 ]
 
