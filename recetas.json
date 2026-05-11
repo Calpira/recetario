@@ -732,6 +732,54 @@
 "etiquetas": [
 ],
 "imagen": "https://oportunidades-vip.com.ar/wp-content/uploads/2025/07/Panquequera_Electrica__Batidor__Bowl_700w_220v_Or-201pc_D_734746-MLA79134734287_092024-O-768x768.jpg"
+},
+
+{
+"id": 27,
+"titulo": "Locro",
+"categoria": "Sopas y caldos",
+"tiempo": "1 hora y 30 minutos",
+"porciones": 6,
+"porcion_unidad": "porciones",
+"dificultad": "Media",
+"descripcion": "Locro vegetariano. De HOLAVEGAN.COM",
+"ingredientes": [
+"150 g de maíz blanco",
+"100 g de porotos Aduki",
+"100 g de porotos alubia",
+"1 cebolla",
+"2 tallos de cebolla de verdeo",
+"1 papa",
+"1/2 zapallo anco",
+"Kéfir de agua o agua cantidad necesaria",
+"1 chorrito de puré de tomate opcional",
+"Aceite de oliva cantidad necesaria",
+"1 cdita. de pimentón ahumado",
+"1 cdita. de pimentón dulce",
+"1 cdita. de comino en polvo",
+"Sal y pimienta a gusto",
+"Perejil fresco picado opcional",
+"Rodajas de lima o limón para servir"
+],
+"pasos": [
+"Activar las legumbres por separado durante al menos 22 horas. Si se usan legumbres ya cocidas, agregarlas al guiso 10 minutos antes de terminar la cocción.",
+"En una olla rehogar la cebolla y los tallos de cebolla de verdeo sin la parte verde con un chorro de aceite de oliva y una pizca de sal.",
+"Agregar la papa y el zapallo cortados en cubos.",
+"Incorporar los porotos Aduki, los porotos alubia y el maíz.",
+"Cubrir con kéfir de agua o agua y agregar el puré de tomate.",
+"Añadir los condimentos y cocinar a fuego fuerte con la olla semi-tapada durante unos minutos.",
+"Ir bajando la intensidad del fuego y continuar la cocción.",
+"Cuando el líquido se reduzca y quede un guiso espeso, agregar la parte verde de la cebolla de verdeo picada finamente.",
+"Servir con perejil fresco picado y rodajas de lima o limón."
+],
+"tips": [
+"El tiempo de cocción puede variar según la intensidad del fuego.",
+"Las legumbres activadas ayudan a mejorar la digestión."
+],
+"etiquetas": [
+"festivo"
+],
+"imagen": "https://holavegan.com/wp-content/uploads/2026/04/locro-1.jpg"
 }
 ]
 
