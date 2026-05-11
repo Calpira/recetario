@@ -780,6 +780,48 @@
 "festivo"
 ],
 "imagen": "https://holavegan.com/wp-content/uploads/2026/04/locro-1.jpg"
+},
+
+{
+"id": 28,
+"titulo": "Ponche de huevo",
+"categoria": "Tragos y bebidas",
+"tiempo": "45 minutos",
+"porciones": null,
+"porcion_unidad": "-",
+"dificultad": "Intermedio",
+"descripcion": "Bebida cremosa tradicional navideña hecha con leche, yemas, especias y opcionalmente alcohol. Por Fine Dining Lovers.",
+"ingredientes": [
+"3 tazas de leche entera",
+"4 yemas de huevo",
+"200 g de azúcar (1 taza)",
+"1 rama de canela",
+"1 cucharada grande de esencia de vainilla",
+"Una pizca de nuez moscada",
+"1 onza de ron, brandy o coñac opcional"
+],
+"pasos": [
+"Batir las yemas junto con el azúcar, agregando el azúcar de a poco hasta obtener una mezcla cremosa, suave y clara.",
+"Calentar la leche junto con la rama de canela a fuego bajo sin que hierva.",
+"Agregar una cucharada de leche caliente a la mezcla de huevos y batir bien para templar los huevos.",
+"Incorporar toda la mezcla nuevamente a la olla con el resto de la leche.",
+"Agregar la nuez moscada y la esencia de vainilla, mezclando constantemente.",
+"Cocinar a fuego bajo entre 15 y 20 minutos sin dejar que hierva.",
+"Para comprobar la cocción, sumergir una cuchara y verificar que quede una capa ligeramente espesa.",
+"Colar la preparación para retirar la canela y posibles grumos.",
+"Dejar enfriar completamente.",
+"Agregar el ron, brandy o coñac solamente cuando el ponche esté frío."
+],
+"tips": [
+"Se puede agregar una taza de crema para batir para una textura más cremosa y espesa.",
+"Las claras pueden montarse y usarse como espuma decorativa.",
+"Puede servirse frío o caliente.",
+"También puede agregarse al café."
+],
+"etiquetas": [
+"festivo"
+],
+"imagen": "https://www.finedininglovers.es/sites/default/files/styles/1_1_768x768/public/recipe_content_images/Ponche%20de%20huevo%20naviden%CC%83o.jpg.webp?itok=Fgn38862"
 }
 ]
 
