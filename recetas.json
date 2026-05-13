@@ -853,6 +853,45 @@
 "francia"
 ],
 "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Monaco_bi%C3%A8re.jpeg/500px-Monaco_bi%C3%A8re.jpeg"
+},
+
+{
+"id": 30,
+"titulo": "Tzatziki",
+"categoria": "Salsas y aderezos",
+"tiempo": "10 minutos",
+"porciones": 2,
+"porcion_unidad": "personas",
+"dificultad": "Fácil",
+"descripcion": "Salsa griega fría y cremosa.",
+"ingredientes": [
+"2 yogures griegos",
+"1 pepino",
+"1 cucharada de aceite de oliva virgen extra",
+"2 cucharadas de menta fresca picada",
+"1 diente de ajo",
+"1/2 limón",
+"Pimienta negra molida",
+"Sal a gusto"
+],
+"pasos": [
+"Pelar y lavar bien el pepino.",
+"Rallar el pepino con un rallador fino hasta obtener una especie de puré.",
+"Salar ligeramente el pepino rallado y dejarlo en un colador para que suelte el agua.",
+"En un cuenco mezclar el yogur, el aceite de oliva, el ajo picado, el zumo de medio limón, la menta picada, sal y pimienta.",
+"Incorporar el pepino bien escurrido.",
+"Remover suavemente hasta integrar.",
+"Servir frío."
+],
+"tips": [
+"El tzatziki queda mejor si reposa un par de horas en la heladera.",
+"También pueden usarse yogures normales bien escurridos.",
+"Puede acompañarse con vegetales, pan naan, dürum o tortillas."
+],
+"etiquetas": [
+"griego"
+],
+"imagen": "https://i.blogs.es/f6a599/tzatziki/1366_2000.jpg"
 }
 ]
 
