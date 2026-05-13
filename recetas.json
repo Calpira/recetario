@@ -822,6 +822,37 @@
 "festivo"
 ],
 "imagen": "https://www.finedininglovers.es/sites/default/files/styles/1_1_768x768/public/recipe_content_images/Ponche%20de%20huevo%20naviden%CC%83o.jpg.webp?itok=Fgn38862"
+},
+
+{
+"id": 29,
+"titulo": "Monaco",
+"categoria": "Tragos y bebidas",
+"tiempo": "5 minutos",
+"porciones": 1,
+"porcion_unidad": "vaso",
+"dificultad": "Fácil",
+"descripcion": "Bebida alcohólica popular en Francia y Bélgica. por Mike Benayoun para 196flavors.com",
+"ingredientes": [
+"15 ml de jarabe de granadina",
+"150 ml de cerveza rubia muy fría",
+"50 ml de limonada muy fría"
+],
+"pasos": [
+"Verter el jarabe de granadina en el fondo de un vaso para cerveza.",
+"Agregar la limonada.",
+"Completar con la cerveza evitando que se desborde la espuma.",
+"Servir inmediatamente."
+],
+"tips": [
+"Puede prepararse con cerveza embotellada o en lata, pero la cerveza de barril mejora el resultado",
+"Se puede agregar hielo.",
+"Se puede decorar con una rodaja de limón"
+],
+"etiquetas": [
+"francia",
+],
+"imagen": "https://www.196flavors.com/wp-content/uploads/2024/02/Monaco-1.jpg.webp"
 }
 ]
 
