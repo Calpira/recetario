@@ -892,6 +892,57 @@
 "griego"
 ],
 "imagen": "https://i.blogs.es/f6a599/tzatziki/1366_2000.jpg"
+},
+
+{
+"id": 31,
+"titulo": "Mini tarta de ricota",
+"categoria": "Pastelería",
+"tiempo": "1 hora 30 minutos",
+"porciones": 6,
+"porcion_unidad": "porciones",
+"dificultad": "Media",
+"descripcion": "de @matuchavero en tiktok",
+"ingredientes": [
+"200 g de harina leudante",
+"100 g de manteca fría",
+"60 g de azúcar",
+"1 huevo",
+"250 g de ricota",
+"75 g de azúcar",
+"30 g de maicena",
+"50 ml de crema de leche",
+"1 huevo",
+"Ralladura de 1 limón",
+"Esencia de vainilla cantidad necesaria",
+"Azúcar impalpable para decorar"
+],
+"pasos": [
+"Para la masa, colocar la harina, la manteca fría y el azúcar en un bowl.",
+"Mezclar hasta formar un arenado.",
+"Agregar el huevo y mezclar hasta formar una masa.",
+"Envolver la masa en papel film y llevar a la heladera durante 1 hora.",
+"Para el relleno, colocar la ricota en un bowl y aplastarla con un tenedor.",
+"Agregar el azúcar, la maicena, la crema de leche, el huevo, la ralladura de limón y la esencia de vainilla.",
+"Mixear la preparación.",
+"Estirar la masa hasta 3 mm de espesor.",
+"Colocarla en un molde y retirar excedentes.",
+"Agregar parte del relleno.",
+"Tapar con más masa y retirar excedentes.",
+"Pinchar la superficie con un tenedor.",
+"Cocinar en horno o airfryer a 180 °C durante 25 minutos.",
+"Dejar enfriar.",
+"Desmoldar y espolvorear con azúcar impalpable."
+],
+"tips": [
+"La crema de leche puede reemplazarse por queso crema o yogur.",
+"Se recomienda escurrir la ricota para manipular mejor el relleno.",
+"Puede rellenarse con fruta o alguna mermelada."
+],
+"etiquetas": [
+"airfryer", "amasadora"
+],
+"imagen": "https://matiaschavero.com/wp-content/uploads/2021/02/tartaricota-2.jpg"
 }
 ]
 
