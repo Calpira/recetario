@@ -173,7 +173,7 @@ function abrirModal(id) {
         <span>🕐 ${r.tiempo}</span>
         <span>🍽 ${r.porciones} ${r.porcion_unidad || 'porciones'}</span>
         ${r.dificultad ? `<span>⚡ ${r.dificultad}</span>` : ''}
-        <button class="share-btn" onclick="copiarLink(${r.id})">🔗 Copiar link</button>
+        <button class="share-btn" onclick="compartir(${r.id})">🔗 compartir</button>
       </div>
       <p class="modal-desc">${r.descripcion}</p>
       ${tagsEl}
@@ -190,13 +190,13 @@ function abrirModal(id) {
   document.body.style.overflow = 'hidden';
 }
 
-function copiarLink(id) {
+function compartirk(id) {
   const url = `${window.location.origin}${window.location.pathname}#${id}`;
   navigator.clipboard.writeText(url).then(() => {
     const btn = document.querySelector('.share-btn');
     if (btn) {
-      btn.textContent = '✓ Copiado';
-      setTimeout(() => { btn.textContent = '🔗 Copiar link'; }, 2000);
+      btn.textContent = 'enlace copiado';
+      setTimeout(() => { btn.textContent = '🔗 compartir'; }, 2000);
     }
   });
 }
