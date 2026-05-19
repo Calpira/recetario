@@ -943,6 +943,49 @@
 "airfryer", "amasadora"
 ],
 "imagen": "https://matiaschavero.com/wp-content/uploads/2021/02/tartaricota-2.jpg"
+},
+
+
+{
+"id": 32,
+"titulo": "Volcán de chocolate",
+"categoria": "Postres",
+"tiempo": "10 minutos",
+"porciones": 6,
+"porcion_unidad": "volcanes chicos",
+"dificultad": "Media",
+"descripcion": "Volcán de chocolate hecho en freidora de aire, con centro cremoso y pocos ingredientes. De @kale.pasteleria en tiktok",
+"ingredientes": [
+"75 g de chocolate semiamargo (idealmente cobertura)",
+"75 g de manteca",
+"2 huevos",
+"50 g de azúcar",
+"40 g de harina 0000",
+"1 pizca de sal"
+],
+"pasos": [
+"Derretir el chocolate semiamargo junto con la manteca.",
+"Colocar la mezcla en un bowl.",
+"Agregar los huevos y luego el azúcar.",
+"Incorporar la harina tamizada.",
+"Agregar la pizca de sal.",
+"Mezclar bien asegurándose de que no queden grumos.",
+"Aceitar o enmantecar los moldes para volcán.",
+"Llenar cada molde hasta 3/4 de su capacidad.",
+"Precalentar la freidora de aire a 200 °C.",
+"Cocinar aproximadamente 5 a 6 minutos."
+],
+"tips": [
+"Si se usa chocolate cobertura el sabor queda más rico.",
+"La cocción es la clave: puede variar según la freidora de aire.",
+"Lo ideal es probar tiempos hasta encontrar el punto justo.",
+"Puede servirse con una bocha de helado.",
+"Se puede tamizar azucar impalpable por encima para decorar"
+],
+"etiquetas": [
+"freidora de aire"
+],
+"imagen": "https://www.pronto.com.ar/u/fotografias/m/2025/7/3/f618x335-197097_226690_5050.jpg"
 }
 ]
 
