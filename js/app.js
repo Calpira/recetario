@@ -190,7 +190,7 @@ function abrirModal(id) {
   document.body.style.overflow = 'hidden';
 }
 
-function compartirk(id) {
+function compartir(id) {
   const url = `${window.location.origin}${window.location.pathname}#${id}`;
   navigator.clipboard.writeText(url).then(() => {
     const btn = document.querySelector('.share-btn');
