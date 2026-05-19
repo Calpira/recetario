@@ -42,6 +42,7 @@ recetario/
 -  'Desayunos':          '🍳',
 -  'Guarniciones':       '🍚',
 -  'Ingredientes':       '🧂',
+-  'Otros':               '✔',
 
 ---
 

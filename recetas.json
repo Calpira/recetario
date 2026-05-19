@@ -986,6 +986,39 @@
 "freidora de aire"
 ],
 "imagen": "https://www.pronto.com.ar/u/fotografias/m/2025/7/3/f618x335-197097_226690_5050.jpg"
+},
+
+{
+"id": 33,
+"titulo": "Sal de vino tinto",
+"categoria": "Ingredientes",
+"tiempo": null,
+"porciones": null,
+"porcion_unidad": null,
+"dificultad": "Fácil",
+"descripcion": "Sal saborizada con vino tinto ideal para condimentar comidas, y para aprovechar si te sobro vino",
+"ingredientes": [
+"Sal cantidad necesaria",
+"Vino tinto cantidad necesaria para humedecer"
+],
+"pasos": [
+"Colocar la sal en una budinera o lata.",
+"Agregar vino tinto solo hasta humedecer la sal.",
+"Si se agrega demasiado vino, incorporar más sal.",
+"Dejar secar cerca de una estufa, dentro del horno apagado después de cocinar o a temperatura ambiente.",
+"Esperar hasta que esté completamente seca.",
+"Envasar."
+],
+"tips": [
+"No agregar demasiado vino; idealmente solo humedecer."
+],
+"etiquetas": [
+"condimento",
+"saborizador",
+"tip"
+],
+"imagen": "https://us.123rf.com/450wm/echeverriurrealuis/echeverriurrealuis2302/echeverriurrealuis230200011/198766823-finos-cristales-de-sal-de-vino-tinto-en-el-cuenco-de-madera.jpg"
 }
+
 ]
 
