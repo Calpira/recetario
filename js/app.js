@@ -15,7 +15,7 @@ const CAT_ICONS = {
   'Desayunos':          '🍳',
   'Guarniciones':       '🍚',
   'Ingredientes':       '🧂',
-  'Otros':               '✔',
+  'Otros':              '✔',
 };
 
 function catIcon(cat) { return CAT_ICONS[cat] || '🍴'; }
@@ -33,6 +33,11 @@ async function cargarRecetas() {
     recetas = await resp.json();
     construirCategorias();
     render();
+    // abrir receta si hay hash en la URL
+    if (window.location.hash) {
+      const id = parseInt(window.location.hash.slice(1));
+      if (!isNaN(id)) abrirModal(id);
+    }
   } catch {
     document.getElementById('grid').innerHTML =
       `<div class="empty"><span class="empty-icon">⚠️</span><p>No se pudo cargar recetas.json</p></div>`;
@@ -141,6 +146,9 @@ function abrirModal(id) {
   const r = recetas.find(x => x.id === id);
   if (!r) return;
 
+  // actualizar URL con el hash
+  history.pushState(null, '', `#${id}`);
+
   const imgEl = r.imagen
     ? `<img class="modal-img" src="${r.imagen}" alt="${r.titulo}">`
     : `<div class="modal-img-placeholder">${catIcon(r.categoria)}</div>`;
@@ -165,9 +173,10 @@ function abrirModal(id) {
         <span>🕐 ${r.tiempo}</span>
         <span>🍽 ${r.porciones} ${r.porcion_unidad || 'porciones'}</span>
         ${r.dificultad ? `<span>⚡ ${r.dificultad}</span>` : ''}
+        <button class="share-btn" onclick="copiarLink(${r.id})">🔗 Copiar link</button>
       </div>
       <p class="modal-desc">${r.descripcion}</p>
-      ${tagsEl} 
+      ${tagsEl}
       <p class="modal-section">Ingredientes</p>
       <ul class="ing-list">${r.ingredientes.map(i => `<li>${i}</li>`).join('')}</ul>
       <p class="modal-section">Preparación</p>
@@ -181,9 +190,21 @@ function abrirModal(id) {
   document.body.style.overflow = 'hidden';
 }
 
+function copiarLink(id) {
+  const url = `${window.location.origin}${window.location.pathname}#${id}`;
+  navigator.clipboard.writeText(url).then(() => {
+    const btn = document.querySelector('.share-btn');
+    if (btn) {
+      btn.textContent = '✓ Copiado';
+      setTimeout(() => { btn.textContent = '🔗 Copiar link'; }, 2000);
+    }
+  });
+}
+
 function cerrarModal() {
   document.getElementById('modal-overlay').classList.remove('open');
   document.body.style.overflow = '';
+  history.pushState(null, '', window.location.pathname);
 }
 
 function toggleSidebar() {

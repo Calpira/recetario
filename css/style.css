@@ -382,4 +382,20 @@ body {
   .grid { grid-template-columns: 1fr; }
   .filter-bar { padding: .7rem .85rem; }
 }
- 
+
+.share-btn {
+  background: none;
+  border: 1px solid var(--parchment3);
+  border-radius: 20px;
+  padding: 3px 10px;
+  font-family: var(--font-sans);
+  font-size: 12px;
+  color: var(--ink3);
+  cursor: pointer;
+  transition: all .15s;
+  margin-left: auto;
+}
+.share-btn:hover {
+  border-color: var(--terracotta);
+  color: var(--terracotta);
+}
