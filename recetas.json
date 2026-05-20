@@ -1018,6 +1018,51 @@
 "tip"
 ],
 "imagen": "https://us.123rf.com/450wm/echeverriurrealuis/echeverriurrealuis2302/echeverriurrealuis230200011/198766823-finos-cristales-de-sal-de-vino-tinto-en-el-cuenco-de-madera.jpg"
+},
+
+{
+"id": 34,
+"titulo": "Coffee Jelly",
+"categoria": "Postres",
+"tiempo": null,
+"porciones": null,
+"porcion_unidad": null,
+"dificultad": "Media",
+"descripcion": "Postre de café inspirado en Saiki, hecho con agar agar y acompañado con crema batida. Sabor intenso a café y poco dulce.",
+"ingredientes": [
+"55 g de café molido",
+"450 ml de agua",
+"2 cucharaditas de agar agar (4 g)",
+"40 g de azúcar",
+"150 g de crema de leche",
+"35 g de azúcar impalpable",
+"Esencia de vainilla cantidad necesaria"
+],
+"pasos": [
+"Cargar el café molido en un frasco.",
+"Agregar el agua y revolver.",
+"Tapar y llevar a la heladera durante una noche.",
+"Filtrar la preparación.",
+"Agregar el agar agar y el azúcar.",
+"Llevar a fuego hasta que hierva.",
+"Apagar el fuego y retirar.",
+"Dejar enfriar un poco.",
+"Volcar en moldes sin enmantecar ni aceitar.",
+"Llevar a la heladera hasta que solidifique.",
+"Pasar una espátula por los bordes para desmoldar.",
+"Batir la crema de leche con el azúcar impalpable y esencia de vainilla hasta formar picos.",
+"Decorar el postre con la crema."
+],
+"tips": [
+"Puede aumentarse el azúcar o disminuir el café según preferencia."
+],
+"etiquetas": [
+"anime",
+"saiki",
+"gelatina",
+"cafe"
+],
+"imagen": "https://okdiario.com/img/2016/11/26/receta-de-gelatina-de-cafe-facil-1.jpg"
 }
 
 ]
