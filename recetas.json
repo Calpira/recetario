@@ -1114,6 +1114,44 @@
 "etiquetas": [
 ],
 "imagen": "https://www.companiaamericana.com.ar/wp-content/uploads/2024/05/3D-Budin-Fantasia-Limon.jpg"
+},
+
+{
+"id": 36,
+"titulo": "Limoncello",
+"categoria": "Tragos y bebidas",
+"tiempo": "minimo 8 días",
+"porciones": 2,
+"porcion_unidad": "litros",
+"dificultad": "Fácil",
+"descripcion": "Limonchelo casero hecho con macerado de cáscaras de limón y alcohol, rendidor y estilo tradicional.",
+"ingredientes": [
+"12 limones (solo la cáscara, sin lo blanco)",
+"1 litro de alcohol comestible al 96%",
+"2 litros y medio de agua",
+"1 kilo y medio de azúcar"
+],
+"pasos": [
+"Pelar los 12 limones retirando solo la cáscara sin la parte blanca.",
+"Colocar las cáscaras en un frasco hermetico",
+"Agregar 1 litro de alcohol comestible.",
+"Tapar y dejar reposar minimo 8 días en un lugar fresco y oscuro.",
+"Hervir el agua y Cuando rompa hervor agregar el azúcar.",
+"Revolver hasta disolver completamente.",
+"Dejar enfriar el almíbar a temperatura ambiente.",
+"Colar las cáscaras del alcohol macerado.",
+"Mezclar el alcohol filtrado con el almíbar frío.",
+"Filtrar nuevamente usando colador y repasador limpio.",
+"Embotellar usando embudo en botellas esterilizadas."
+],
+"tips": [
+"No usar la parte blanca del limón porque aporta amargor.",
+"Guardar el frasco en un lugar fresco y oscuro durante el macerado."
+],
+"etiquetas": [
+"macerado"
+],
+"imagen": "https://www.gzrecipes.com/content/uploads/sites/5/2026/04/limoncello-casero-gz-7-69d2615895add9-38109299-1024x854.jpg"
 }
 
 ]
