@@ -1063,6 +1063,57 @@
 "cafe"
 ],
 "imagen": "https://okdiario.com/img/2016/11/26/receta-de-gelatina-de-cafe-facil-1.jpg"
+},
+
+{
+"id": 35,
+"titulo": "Budín fantasía de limón",
+"categoria": "Pastelería",
+"tiempo": "25 minutos",
+"porciones": "1",
+"porcion_unidad": "budín",
+"dificultad": "Media",
+"descripcion": "Inspirado en el de nevares. De @lautanasia en tiktok",
+"ingredientes": [
+"200 g de harina 0000",
+"50 g de cacao",
+"180 g de azúcar",
+"125 g de manteca",
+"3 huevos",
+"50 ml de leche",
+"10 g de polvo de hornear",
+"100 ml de jugo de limón con su ralladura",
+"100 g de azúcar (curd)",
+"100 g de manteca (curd)",
+"2 huevos (curd)",
+"2 g de agar agar (curd)",
+"100 g de chocolate semiamargo"
+],
+"pasos": [
+"Cremar los 125 g de manteca con los 180 g de azúcar.",
+"Integrar de a poco los 3 huevos para generar una emulsión.",
+"Agregar los 50 ml de leche.",
+"Incorporar la harina, el cacao y el polvo de hornear.",
+"Pasar la mezcla a una budinera.",
+"Cocinar en horno precalentado a 170 °C entre 20 y 25 minutos o hasta que al pinchar salga seco.",
+"Para el curd, mezclar el jugo de limón con ralladura, los 100 g de azúcar y los 2 huevos sin dejar de revolver al fuego.",
+"Agregar el agar agar.",
+"Cocinar hasta que espese.",
+"Retirar del fuego.",
+"Incorporar los 100 g de manteca.",
+"Opcionalmente tamizar el curd.",
+"Cortar el budín en capas.","Forrar una budinera con film.",
+"Colocar una capa de budín, una de curd y repetir.",
+"Colocar las capas dentro de la budinera.",
+"Llevar al freezer.","Bañar con chocolate semiamargo."
+],
+"tips": [
+"Puede tamizarse el curd para una textura más lisa.",
+"El agar agar se agrega después de integrar los otros ingredientes del curd."
+],
+"etiquetas": [
+],
+"imagen": "https://www.companiaamericana.com.ar/wp-content/uploads/2024/05/3D-Budin-Fantasia-Limon.jpg"
 }
 
 ]
