@@ -1,17 +1,17 @@
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
  
 :root {
-  /* Paleta apagada — tierra, salvia, parchment */
+ 
   --parchment:   #F5F0E8;
   --parchment2:  #E8E1D5;
   --parchment3:  #D6CEC0;
   --ink:         #2A2520;
   --ink2:        #5C554C;
   --ink3:        #9B9188;
-  --terracotta:  #8B4F35;      /* acento principal — óxido apagado */
+  --terracotta:  #8B4F35;      
   --terra-bg:    #F2EAE4;
   --terra-mid:   #A0604A;
-  --sage:        #6B7B6A;      /* acento secundario — verde salvia */
+  --sage:        #6B7B6A;      
   --sidebar-bg:  #1E1B18;
   --sidebar-w:   272px;
   --font-serif:  'DM Serif Display', Georgia, serif;
@@ -28,7 +28,7 @@ body {
   display: flex;
 }
  
-/* ── SIDEBAR ──────────────────────────────────────── */
+
 .sidebar {
   width: var(--sidebar-w);
   min-height: 100vh;
@@ -71,7 +71,7 @@ body {
   letter-spacing: .06em;
 }
  
-/* Search */
+
 .search-wrap { position: relative; margin-bottom: 1.5rem; }
 .search-icon {
   position: absolute; left: 10px; top: 50%; transform: translateY(-50%);
@@ -106,7 +106,7 @@ body {
   flex-shrink: 0;
 }
  
-/* Nav */
+
 .nav-label {
   font-size: 10px; letter-spacing: .13em; text-transform: uppercase;
   color: rgba(255,255,255,0.22); margin-bottom: .6rem; padding: 0 4px;
@@ -132,8 +132,8 @@ body {
 }
 .edit-link { font-size: 12px; color: rgba(255,255,255,0.25); text-decoration: none; transition: color .2s; }
 .edit-link:hover { color: var(--terra-mid); }
- 
-/* ── HAMBURGER ────────────────────────────────────── */
+
+
 .hamburger {
   display: none; position: fixed; top: 1rem; left: 1rem; z-index: 300;
   flex-direction: column; gap: 5px; cursor: pointer;
@@ -142,7 +142,7 @@ body {
 .hamburger span { display: block; width: 20px; height: 2px; background: #EDE7DC; border-radius: 2px; }
 .overlay-bg { display: none; position: fixed; inset: 0; background: rgba(0,0,0,.4); z-index: 150; }
  
-/* ── MAIN ─────────────────────────────────────────── */
+
 .main {
   margin-left: var(--sidebar-w);
   padding: 2.5rem 2.5rem 5rem;
@@ -163,15 +163,15 @@ body {
 }
 .page-count { font-size: 13px; color: var(--ink3); }
  
- 
-/* ── GRID ─────────────────────────────────────────── */
+
+
 .grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(268px, 1fr));
   gap: 1.35rem;
 }
  
-/* ── CARD ─────────────────────────────────────────── */
+
 .card {
   background: #fff; border-radius: var(--radius);
   border: 1px solid var(--parchment2); overflow: hidden;
@@ -219,7 +219,7 @@ body {
 }
 .card-meta { display: flex; align-items: center; gap: 4px; }
  
-/* ── EMPTY ────────────────────────────────────────── */
+
 .empty {
   grid-column: 1/-1; text-align: center;
   padding: 5rem 2rem; color: var(--ink3);
@@ -228,7 +228,7 @@ body {
 .empty p { font-size: .95rem; }
 .empty-sub { font-size: .85rem; margin-top: .35rem; }
  
-/* ── MODAL OVERLAY ────────────────────────────────── */
+
 .modal-overlay {
   display: none; position: fixed; inset: 0;
   background: rgba(20,17,14,.55); z-index: 400;
@@ -265,7 +265,7 @@ body {
   font-size: 4rem; border-radius: 16px 16px 0 0;
 }
  
-/* Modal content */
+
 .modal-content { padding: 1.5rem 1.75rem 2.5rem; clear: both; }
 .modal-cat-row { display: flex; align-items: center; gap: 6px; margin-bottom: .4rem; }
 .modal-cat-icon { font-size: 13px; }
@@ -286,8 +286,8 @@ body {
   border-bottom: 1px solid var(--parchment2);
   font-style: italic;
 }
- 
-/* Porciones selector */
+
+
 .porciones-row {
   display: flex; align-items: center; gap: .75rem;
   margin-bottom: 1.25rem;
@@ -340,7 +340,7 @@ body {
   content: ''; width: 4px; height: 4px; border-radius: 50%;
   background: var(--terracotta); flex-shrink: 0; margin-top: 6px;
 }
-/* cantidad escalada */
+
 .ing-qty { font-weight: 500; color: var(--terracotta); margin-right: 2px; }
  
 .steps-list {
@@ -365,7 +365,7 @@ body {
   gap: 7px; line-height: 1.45;
 }
  
-/* ── RESPONSIVE ───────────────────────────────────── */
+
 @media (max-width: 860px) {
   .filter-divider { display: none; }
 }
