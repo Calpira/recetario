@@ -2,7 +2,7 @@
   <img src="assets/logo.png" alt="logo" width="200">
 </p>
 
-Libro de recetas personal, para un rapido acceso multiplataforma. Las recetas se guardan en un archivo JSON editable.
+Libro de recetas personal, para un rapido acceso multiplataforma. 
 
 ## Estructura
 
