@@ -8,9 +8,9 @@ Libro de recetas personal, para un rapido acceso multiplataforma. Las recetas se
 
 ```
 recetario/
-├── index.html        ← página principal
-├── recetas.json      ← recetas (para editar)
-├── vercel.json       ← configuración de Vercel
+├── index.html  
+├── recetas.json     
+├── vercel.json      
 ├── css/
 │   └── style.css
 └── js/
@@ -24,42 +24,4 @@ recetario/
 <img alt="Static Badge" src="https://img.shields.io/badge/editar_porciones-corregido-green">
 
 ---
-
-### categorias: 
--  'Panes y masas':      '🍞',
--  'Postres':            '🍮',
--  'Cafetería':          '☕',
--  'Pastelería':         '🥐',
--  'Tragos y bebidas':   '🍹',
--  'Sopas y caldos':     '🍲',
--  'Pastas':             '🍝',
--  'Salsas y aderezos':  '🥣',
--  'Snacks y aperitivos':'🍟',
--  'Platos principales': '🥘',
--  'Tartas y quiches':   '🥧',
--  'Entradas':           '🧆',
--  'Ensaladas':          '🥗',
--  'Desayunos':          '🍳',
--  'Guarniciones':       '🍚',
--  'Ingredientes':       '🧂',
--  'Otros':               '✔',
-
----
-
-### Informacion para cada receta en el json
-```
-{"id" : ,
-"titulo" : "",
-"categoria" : "",
-"tiempo" : "",
-"porciones" : ,
-"porcion_unidad" : "",
-"dificultad" : "",
-"descripcion" : "",
-"ingredientes" : [],
-"pasos" : [],
-"tips" : [],
-"etiquetas" : [],
-"imagen" : "https://kirolab3d.tienda-online.com/server/Portal_0009770/img/products/no_image_xxl.jpg"
-}
 
