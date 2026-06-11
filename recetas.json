@@ -1264,6 +1264,42 @@
 ],
 "etiquetas": [
 ],
-"imagen": "https://img-global.cpcdn.com/steps/1d20544ff473e2b3/640x640sq80/photo.webp"}
+"imagen": "https://img-global.cpcdn.com/steps/1d20544ff473e2b3/640x640sq80/photo.webp"},
+{
+"id": 39,
+"titulo": "Pastel de repollo",
+"categoria": "Tartas y quiches",
+"tiempo": "50 minutos",
+"porciones": null,
+"porcion_unidad": "-",
+"dificultad": "Fácil",
+"descripcion": "-",
+"ingredientes": [
+"400 g de repollo",
+"2 cebollas",
+"5 g de polvo de hornear",
+"300 g de harina",
+"250 ml de leche",
+"100 ml de aceite de oliva",
+"Sal a gusto",
+"Pimienta a gusto",
+"Hierbas y especias a gusto"
+],
+"pasos": [
+"En un bowl mezclar la harina, el polvo de hornear, la sal y la pimienta. Agregar el aceite de oliva y la leche. Mezclar hasta obtener una preparación homogénea sin grumos.",
+"Cortar el repollo en tiras finas o rallarlo. Agregar sal, las cebollas picadas y las hierbas o especias elegidas. Mezclar bien para integrar los sabores.",
+"Enmantecar un molde para horno.",
+"Colocar una capa de la mezcla líquida. Agregar el relleno de repollo. Cubrir con el resto de la mezcla líquida.",
+"Hornear a 180 °C durante 50 minutos."
+],
+"tips": [
+"Es importante precalentar bien el horno para que el centro se cocine correctamente.",
+"Puede hacerse en freidora de aire reduciendo las proporciones y el tiempo de cocción."
+],
+"etiquetas": [
+"horno","freidora de aire"
+],
+"imagen": "https://kirolab3d.tienda-online.com/server/Portal_0009770/img/products/no_image_xxl.jpg"
+}
 ]
 
