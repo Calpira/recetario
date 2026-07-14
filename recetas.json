@@ -1301,5 +1301,46 @@
 ],
 "imagen": "https://kirolab3d.tienda-online.com/server/Portal_0009770/img/products/no_image_xxl.jpg"
 }
+
+{
+"id": 40,
+"titulo": "Dry Martini",
+"categoria": "Tragos y bebidas",
+"tiempo": "5 minutos",
+"porciones": 1,
+"porcion_unidad": "cóctel",
+"dificultad": "Fácil",
+"descripcion": "Cóctel clásico preparado con gin y vermut seco, servido bien frío y decorado tradicionalmente con aceitunas.",
+"ingredientes": [
+"1/2 oz de vermut seco",
+"2 oz de gin",
+"Hielo cantidad necesaria",
+"1 o 3 aceitunas (cantidad impar)",
+"15 ml de salmuera de aceitunas (opcional, para Dry Martini sucio)"
+],
+"pasos": [
+"Enfriar previamente la copa de Martini.",
+"Llenar un vaso mezclador con hielo.",
+"Revolver el hielo con una cuchara y descartar el agua que se genere.",
+"Agregar el vermut seco y el gin.",
+"Mezclar nuevamente con una cuchara hasta enfriar bien la bebida.",
+"Colar y servir en la copa previamente fría.",
+"Decorar con las aceitunas ensartadas en un palillo."
+],
+"tips": [
+"Si la copa es grande, puede duplicarse la cantidad de todos los ingredientes.",
+"Para un Dry Martini sucio, agregar aproximadamente 15 ml de salmuera de aceitunas.",
+"Puede decorarse con aceitunas rellenas de morrón en un palillo metálico o de bambú.",
+"También puede aromatizarse con un twist de piel de limón.",
+"Como alternativa pueden utilizarse rodajas de naranja deshidratada o cebollitas en vinagre."
+],
+"etiquetas": [
+"martini",
+"gin",
+"vermut",
+"cóctel"
+],
+"imagen": "https://www.urbanbar.com/cdn/shop/articles/Dry_Martini_recipe.jpg?v=1671206510&width=1500"
+}
 ]
 
