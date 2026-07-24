@@ -25,5 +25,4 @@ recetario/
 <img alt="Static Badge" src="https://img.shields.io/badge/cargar_imagenes-pendiente-red">
 <img alt="Static Badge" src="https://img.shields.io/badge/editar_porciones-corregido-green">
 <img alt="Static Badge" src="https://img.shields.io/badge/crear_inicio-terminado-green">
----
 
