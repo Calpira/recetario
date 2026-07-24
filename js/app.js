@@ -33,11 +33,29 @@ async function cargarRecetas() {
     recetas = await resp.json();
     construirCategorias();
     render();
+
+    const params = new URLSearchParams(window.location.search);
+    const q = params.get('q');
+    const cat = params.get('cat');
+    if (q) {
+      state.busqueda = q;
+      document.getElementById('buscador').value = q;
+      document.getElementById('search-clear').style.display = 'block';
+      render();
+    }
+    if (cat) {
+      state.categoria = cat;
+      document.querySelectorAll('.cat-btn').forEach(b => b.classList.toggle('active', b.dataset.cat === cat));
+      document.getElementById('page-title').textContent = cat;
+      render();
+    }
+
     // abrir receta si hay hash en la URL
     if (window.location.hash) {
       const id = parseInt(window.location.hash.slice(1));
       if (!isNaN(id)) abrirModal(id);
     }
+
   } catch {
     document.getElementById('grid').innerHTML =
       `<div class="empty"><span class="empty-icon">⚠️</span><p>No se pudo cargar recetas.json</p></div>`;
