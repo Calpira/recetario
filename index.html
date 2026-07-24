@@ -182,6 +182,10 @@
     }
 
     @media (max-width: 480px) {
+      html, body {
+        overflow: hidden;
+        height: 100%;
+      }
       .cats-grid { grid-template-columns: repeat(3, 1fr); }
       .hero {
         height: 100vh;
