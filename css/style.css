@@ -373,7 +373,7 @@ body {
   .sidebar { transform: translateX(-100%); }
   .sidebar.open { transform: translateX(0); }
   .overlay-bg.open { display: block; }
-  .hamburger { display: flex; }
+  .hamburger { left: auto; right: 1rem;}
   .main { margin-left: 0; padding: 4.5rem 1.1rem 3rem; }
   .ing-list { grid-template-columns: 1fr; }
   .modal-content { padding: 1.25rem 1.25rem 2rem; }
