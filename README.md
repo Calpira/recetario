@@ -8,7 +8,8 @@ Libro de recetas personal, para un rapido acceso multiplataforma.
 
 ```
 recetario/
-├── index.html  
+├── index.html
+├── recetas.html
 ├── recetas.json     
 ├── vercel.json      
 ├── css/
@@ -17,11 +18,12 @@ recetario/
 │   └── app.js
 └── assets/
     └── logo.png
+    └── background.png
 
 ```
 <img alt="Static Badge" src="https://img.shields.io/badge/cargar_recetas-en_proceso-yellow">
 <img alt="Static Badge" src="https://img.shields.io/badge/cargar_imagenes-pendiente-red">
 <img alt="Static Badge" src="https://img.shields.io/badge/editar_porciones-corregido-green">
-
+<img alt="Static Badge" src="https://img.shields.io/badge/crear_inicio-terminado-green">
 ---
 
