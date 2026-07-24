@@ -188,14 +188,14 @@
 <section class="hero">
   <div class="hero-inner">
 
-    <!-- logo -->
+
     <img src="assets/logo.png" alt="logo" class="hero-logo"
          onerror="this.outerHTML='<div class=\'hero-logo-placeholder\'>R</div>'" />
 
     <h1 class="hero-title">Recetario</h1>
     <p class="hero-sub">═════. ❀~✿ .═</p>
 
-    <!-- buscador -->
+
     <div class="search-wrap">
       <svg viewBox="0 0 20 20" fill="none">
         <circle cx="8.5" cy="8.5" r="5.5" stroke="currentColor" stroke-width="1.5"/>
@@ -205,12 +205,12 @@
              onkeydown="buscar(event)" autocomplete="off" />
     </div>
 
-    <!-- categorías -->
+
     <p class="cats-label">O explorá por categoría</p>
     <div class="cats-grid" id="cats-grid"></div>
 
-    <!-- ver todo -->
-    <a href="index.html" class="btn-all">Ver todas las recetas</a>
+
+    <a href="recetas.html" class="btn-all">Ver todas las recetas</a>
 
   </div>
 </section>
@@ -245,7 +245,7 @@
       const cats = [...new Set(recetas.map(r => r.categoria))];
       const grid = document.getElementById('cats-grid');
       grid.innerHTML = cats.map(cat => `
-        <a class="cat-card" href="index.html?cat=${encodeURIComponent(cat)}">
+        <a class="cat-card" href="recetas.html?cat=${encodeURIComponent(cat)}">
           <span class="icon">${catIcon(cat)}</span>
           <span class="name">${cat}</span>
         </a>
@@ -258,7 +258,7 @@
   function buscar(e) {
     if (e.key === 'Enter') {
       const q = document.getElementById('buscador').value.trim();
-      if (q) window.location.href = `index.html?q=${encodeURIComponent(q)}`;
+      if (q) window.location.href = `recetas.html?q=${encodeURIComponent(q)}`;
     }
   }
 
