@@ -138,8 +138,8 @@
     }
 
     .cat-card {
-      background: rgba(255,255,255,.07);
-      border: 1px solid rgba(255,255,255,.1);
+      background: rgba(20,14,10,.45);
+      border: 1px solid rgba(255,255,255,.18);
       border-radius: 10px;
       padding: .75rem .5rem;
       cursor: pointer;
@@ -156,9 +156,11 @@
     }
     .cat-card .icon { font-size: 1.5rem; line-height: 1; }
     .cat-card .name {
+    .cat-card .name {
       font-size: 12px;
-      color: rgba(245,240,230,.75);
+      color: #F5EFE6;
       line-height: 1.3;
+    }
     }
 
     .btn-all {
@@ -246,7 +248,6 @@
       const grid = document.getElementById('cats-grid');
       grid.innerHTML = cats.map(cat => `
         <a class="cat-card" href="recetas.html?cat=${encodeURIComponent(cat)}">
-          <span class="icon">${catIcon(cat)}</span>
           <span class="name">${cat}</span>
         </a>
       `).join('');
