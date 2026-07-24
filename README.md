@@ -18,7 +18,6 @@ recetario/
 │   └── app.js
 └── assets/
     └── logo.png
-    └── background.png
 
 ```
 <img alt="Static Badge" src="https://img.shields.io/badge/cargar_recetas-en_proceso-yellow">
