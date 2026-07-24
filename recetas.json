@@ -1341,6 +1341,47 @@
 "cóctel"
 ],
 "imagen": "https://www.urbanbar.com/cdn/shop/articles/Dry_Martini_recipe.jpg?v=1671206510&width=1500"
+},
+
+{
+"id": 41,
+"titulo": "Masa para dumplings",
+"categoria": "Panes y masas",
+"tiempo": "1 hora",
+"porciones": 12,
+"porcion_unidad": "tapitas",
+"dificultad": "Fácil",
+"descripcion": "Masa tradicional para dumplings o empanadillas chinas, ideal para cocinar al vapor.",
+"ingredientes": [
+"500 ml de harina de trigo",
+"200 ml de agua muy caliente (recién hervida)"
+],
+"pasos": [
+"Colocar la harina en un bowl grande.",
+"Agregar el agua muy caliente mientras se mezcla con un tenedor.",
+"Cuando la masa pueda manipularse sin quemarse, formar un bollo.",
+"Enharinar la mesada y amasar durante 2 o 3 minutos hasta obtener una masa elástica.",
+"Formar una bola, envolver en film plástico y dejar reposar entre 1 y 2 horas.",
+"Estirar toda la masa hasta un espesor aproximado de 3 mm y cortar discos con un vaso, o formar bollitos de unos 3 cm de diámetro y estirarlos individualmente con un rodillo. (2mm para gyozas)",
+"Colocar el relleno elegido sobre cada disco.",
+"Cerrar los dumplings con el pliegue deseado.",
+"Cocinar con el metodo preferido."
+],
+"tips": [
+"El agua debe estar muy caliente, recién hervida, pero sin llegar a quemar al manipular la masa.",
+"Amasar durante al menos 2 minutos es fundamental para lograr una masa elástica.",
+"Tradicionalmente se sirven con vinagre negro o salsa de soja.",
+"se puede hacer en amasadora, volcando en un hilo el agua y dejando hasta que quede con la consistencia indicada",
+"Para sopas, al vapor o para cocinar en sarten"
+],
+"etiquetas": [
+"dumplings",
+"dim sum",
+"china",
+"gyozas",
+"japon"
+],
+"imagen": "https://foodieholly.com/wp-content/uploads/2024/08/Homemade-dumpling-wrappers-.jpg"
 }
 ]
 
