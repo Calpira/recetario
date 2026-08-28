@@ -24,7 +24,7 @@
 ## Qué es
 
 > Un libro de recetas digital, multiplataforma y de acceso rápido, diseñado para consultar desde cualquier dispositivo. Con búsqueda y navegación por categorías.
-> Enfocado en el desarrollo **Frontend**. Para simplificar la arquitectura y evitar costos de servidores, las recetas se gestionan directamente desde un archivo `recetas.json`. 
+> Para simplificar la arquitectura las recetas se gestionan directamente desde un archivo `recetas.json`. 
 
 
 ## Estructura
