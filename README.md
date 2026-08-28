@@ -23,7 +23,9 @@
 
 ## Qué es
 
->Sitio estático para guardar y consultar recetas, con búsqueda y navegación por categorías. Las recetas se cargan desde un archivo JSON editable, sin implementacion de base de datos.
+> Un libro de recetas digital, multiplataforma y de acceso rápido, diseñado para consultar desde cualquier dispositivo. Con búsqueda y navegación por categorías.
+> Enfocado en el desarrollo **Frontend**. Para simplificar la arquitectura y evitar costos de servidores, las recetas se gestionan directamente desde un archivo `recetas.json`. 
+
 
 ## Estructura
 ```
@@ -54,7 +56,6 @@ recetario/
 - Búsqueda de recetas por texto
 - Modal con el detalle de cada receta
 - Compartir receta puntual vía URL (hash)
-- Recetas cargadas desde `recetas.json`, editable a mano
 
 
 
